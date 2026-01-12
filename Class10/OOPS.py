@@ -22,14 +22,14 @@ class Car:
 honda = Car("honda", 4, "Blue", 6, "Petrol", 300)
 toyoto = Car("toyoto", 4, "Blue", 6, "Petrol", 300)
 
-print(honda.no_of_wheels)
-print(honda.no_of_sheets)
-print(honda.colors)
+# print(honda.no_of_wheels)
+# print(honda.no_of_sheets)
+# print(honda.colors)
 
 honda.speeds()
 
-print(toyoto.no_of_wheels)
-print(toyoto.no_of_sheets)
-print(toyoto.colors)
+# print(toyoto.no_of_wheels)
+# print(toyoto.no_of_sheets)
+# print(toyoto.colors)
 
 toyoto.speeds()
